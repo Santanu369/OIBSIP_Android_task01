@@ -8,8 +8,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import de.hdodenhof.circleimageview.CircleImageView;
-
 public class MainActivity extends AppCompatActivity {
     TextView cf,ck,fc,fk,kc,kf;
     @Override
